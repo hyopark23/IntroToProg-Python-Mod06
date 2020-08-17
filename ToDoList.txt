@@ -1,0 +1,5 @@
+study Python, high
+shower, high
+walk dog, very high
+wash dishes, low
+bake cookies, high
